@@ -1,0 +1,8 @@
+{
+    "vscode-office.pasterImgPath": "",
+    "vscode-office.workspacePathAsImageBasePath": false,
+    "vscode-office.viewAbsoluteLocal": false,
+    "pasteImage.basePath": "${currentFileDir}/${currentFileNameWithoutExt}",
+    "pasteImage.path": "${currentFileDir}/${currentFileNameWithoutExt}",
+    "pasteImage.insertPattern": "${imageSyntaxPrefix}${imageFilePath}${imageSyntaxSuffix}"
+}
