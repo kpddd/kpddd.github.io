@@ -1,10 +1,10 @@
 baseURL = 'https://kpddd.github.io'
 languageCode = 'en-us'
 hasCJKLanguage = true
-title = 'kpddd'
+title = 'KpDDD'
 theme = 'LoveIt'
 
-copyright = "kpddd"
+copyright = "KpDDD"
 
 # whether to use robots.txt
 enableRobotsTXT = true
@@ -132,7 +132,7 @@ link = "https://kpddd.github.io"
     author = true
     # site creation time
     # 网站创立年份
-    since = 2022
+    since = 2024
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -151,7 +151,7 @@ link = "https://kpddd.github.io"
     dateFormat = "01-02"
     # amount of RSS pages
     # RSS 文章数目
-    rss = 10
+    rss = 50
 
   # List (category or tag) page config
   # List (目录或标签) 页面配置
@@ -164,7 +164,7 @@ link = "https://kpddd.github.io"
     dateFormat = "01-02"
     # amount of RSS pages
     # RSS 文章数目
-    rss = 10
+    rss = 50
 
   # App icon config
   # 应用图标配置
@@ -230,16 +230,16 @@ link = "https://kpddd.github.io"
       enable = true
       # Gravatar Email for preferred avatar in home page
       # Gravatar 邮箱，用于优先在主页显示的头像
-      gravatarEmail = ""
+      gravatarEmail = "kp9ddd@gmail.com"
       # URL of avatar shown in home page
       # 主页显示头像的 URL
       avatarURL = ""
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = ""
+      title = "KpDDD"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "个人吐槽, 记录"
+      subtitle = "个人吐槽记录"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -248,7 +248,7 @@ link = "https://kpddd.github.io"
       social = true
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
-      disclaimer = ""
+      disclaimer = "ℹ️乱说胡话，切勿当真。"
     # Home page posts
     # 主页文章列表
     [params.home.posts]
@@ -331,9 +331,9 @@ link = "https://kpddd.github.io"
     Plume = ""
     HackTheBox = ""
     RootMe= ""
-    Email = ""
+    Email = "kp9ddd@gmail.com"
     Phone = ""
-    RSS = ""
+    RSS = "/index.xml"
 
   # Page global config
   # 文章页面全局配置
@@ -676,3 +676,4 @@ link = "https://kpddd.github.io"
     # whether to use object-fit-images to be compatible with older browsers
     # 是否使用 object-fit-images 来兼容旧式浏览器
     objectFit = false
+
