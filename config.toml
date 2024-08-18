@@ -47,7 +47,14 @@ link = "https://kpddd.github.io"
     name = "分类"
     url = "/categories/"
     title = ""
-
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "关于"
+    url = "/about/"
+    title = ""
 
 [module]
   [module.hugoVersion]
