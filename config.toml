@@ -16,6 +16,7 @@ enableEmoji = true
 [author]
 name = "kpddd"
 email = "kp9ddd@gmail.com"
+# gravatarEmail = "kp9ddd@gmail.com"
 link = "https://kpddd.github.io"
 
 # 菜单配置
